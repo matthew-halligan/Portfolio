@@ -84,7 +84,7 @@
         }
     }
 
-    $('.ms-slider img').click(function () {
+    $('.ms-slider .work-image').click(function () {
         ms_slider_pictures_array = []; // Reset the array
         console.log($(this).siblings('.ms-gallery-element'));
         var  gallery_image_sources = $(this).siblings('.ms-gallery-element');

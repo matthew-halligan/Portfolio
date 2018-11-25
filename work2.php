@@ -41,6 +41,38 @@
                 with ease.</div>
             </div>
         </div>
+        
+        <div class="work-list-item-wrapper w-alternate">
+            <div class="ms-slider work-title border-gray">
+<!--                <div class="ms-slider-overlay"></div>-->
+                <img src="assets/new_assets/superior_portf.png" class="work-image" alt="Work Image 1">
+                <span  class="ms-gallery-element" data-gallery-image="assets/new_assets/hero_background2.jpg"></span>
+                <span  class="ms-gallery-element" data-gallery-image="assets/new_assets/hero_background3.jpg"></span>
+
+                <!-- The overlay -->
+                <div id="myNav" class="overlay">
+
+                    <!-- Button to close the overlay navigation -->
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+                    <!-- Overlay content -->
+                    <div  class="overlay-content" style="text-align: center">
+                        <div class="oi-container">
+                            <img class="oi-container-img" src="" alt="">
+                            <div class="controls">
+                                <i class="fas fa-chevron-left ms-prev"></i>
+                                <i class="fas fa-chevron-right ms-next"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="work-description border-gray">
+                <div>This is a dummy title</div>
+                <div>This is a dummy project</div>
+                <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere suscipit consectetur cupiditate rerum ipsam, provident voluptate consequatur pariatur aut delectus?</div>
+            </div>
+        </div>
 
         
         

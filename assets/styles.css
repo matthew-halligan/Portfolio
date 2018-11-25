@@ -589,7 +589,7 @@ body {
 }
 
 .ms-slider {
-    cursor: pointer;
+    /* cursor: pointer; */
     /*position: relative;*/
 }
 
