@@ -48,7 +48,7 @@
             <div class="article-aside-image">
                 <img src="assets/img/break-business-businessman-1571148.jpg" alt="" style="width: 100%; height: auto;">
             </div>
-            <div class="article-aside-title"><p class="font-bold">This is the article aside title</p></div>
+            <div class="article-aside-title"><a href=""><p class="font-bold">This is the article aside title</p></a></div>
             <div class="article-summary" >
                 <p class="line-height-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus at illum maxime officiis
                     pariatur quidem reiciendis repudiandae rerum vel voluptatem?</p>
@@ -59,7 +59,7 @@
             <div class="article-aside-image">
                 <img src="assets/img/break-business-businessman-1571148.jpg" alt="" style="width: 100%; height: auto;">
             </div>
-            <div class="article-aside-title"><p class="font-bold">This is the article aside title</p></div>
+            <div class="article-aside-title"><a href=""><p class="font-bold">This is the article aside title</p></a></div>
             <div class="article-summary" >
                 <p class="line-height-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus at illum maxime officiis
                     pariatur quidem reiciendis repudiandae rerum vel voluptatem?</p>
@@ -69,7 +69,7 @@
             <div class="article-aside-image">
                 <img src="assets/img/break-business-businessman-1571148.jpg" alt="" style="width: 100%; height: auto;">
             </div>
-            <div class="article-aside-title"><p class="font-bold">This is the article aside title</p></div>
+            <div class="article-aside-title"><a href=""><p class="font-bold">This is the article aside title</p></a></div>
             <div class="article-summary" >
                 <p class="line-height-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus at illum maxime officiis
                     pariatur quidem reiciendis repudiandae rerum vel voluptatem?</p>
